@@ -12,7 +12,7 @@ Mortal Kombat Onchain is a blockchain-based fighting game inspired by the legend
 ## How It Works
 1. **Select Your Fighter** – Choose a character to represent you in battle.
 2. **Start a Battle** – Challenge another player to a fight.
-3. **Take Turns Attacking** – Each player attacks on their turn. 
+3. **Take Turns Attacking** – Each player attacks on their turn.  
 4. **Win or Lose** – The first player to reduce their opponent’s health to 0 wins the battle.
 
 ## Deployment & Usage
