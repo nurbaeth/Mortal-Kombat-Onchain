@@ -7,7 +7,7 @@ Mortal Kombat Onchain is a blockchain-based fighting game inspired by the legend
 - Select from iconic fighters like Scorpion, Sub-Zero, and Raiden
 - Turn-based battle system
 - Immutable and transparent fight outcomes
-- Smart contract handles all fight mechanics
+- Smart contract handles all fight mechanics 
 
 ## How It Works
 1. **Select Your Fighter** – Choose a character to represent you in battle.
